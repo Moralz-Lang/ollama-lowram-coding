@@ -471,21 +471,3 @@ Systems exposing preference controls outperform systems relying on scale alone.
 Low‑resource LLM deployment is a preference optimization problem, not a hardware limitation problem. Proper tuning yields stable, interpretable reasoning under extreme constraints.
 
 ---
-
-## Final Takeaway
-
-You are doing **model engineering**, not merely using AI.
-
-You now understand:
-
-* Why reasoning degrades
-* How to control it
-* How to suppress waste
-* How to evaluate models scientifically
-
-Future directions:
-
-* Formal benchmarking methodology
-* Preference‑vector tooling
-* Automated prompt compilers
-* Deterministic inference systems
