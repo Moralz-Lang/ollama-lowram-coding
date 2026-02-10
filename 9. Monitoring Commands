@@ -1,0 +1,5 @@
+free -h
+swapon --show
+htop
+df -h
+du -sh ~/.ollama/models/*
