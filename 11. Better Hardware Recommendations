@@ -1,0 +1,5 @@
+| Hardware  | Upgrade            |
+| --------- | ------------------ |
+| 8 GB RAM  | Qwen 3B            |
+| 16 GB RAM | Qwen 7B            |
+| GPU       | Ollama GPU backend |
