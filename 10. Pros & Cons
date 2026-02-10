@@ -1,0 +1,20 @@
+---
+```Pros
+
+Fully offline
+
+Extremely low RAM
+
+Deterministic outputs
+
+Neovim-native
+
+No GPU required
+---
+```Cons
+
+Slow inference
+
+Small context window
+
+Single-file focus
