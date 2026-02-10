@@ -1,0 +1,11 @@
+---
+📄 Script: setup/install_ollama.sh
+
+sudo pacman -S ollama
+sudo systemctl enable --now ollama
+
+---
+Ollama runs as a local daemon, keeping model weights resident in memory.
+
+Official site:
+https://ollama.com
